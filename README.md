@@ -1,2 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zpayer&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zpayer&bg_color=00000000)
 
